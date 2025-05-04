@@ -2,3 +2,6 @@ servicex
 jupyterlab
 uproot
 matplotlib
+func_adl_servicex_xaodr22
+ipywidgets
+servicex-analysis-utils
