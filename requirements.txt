@@ -1,0 +1,4 @@
+servicex
+jupyterlab
+uproot
+matplotlib
